@@ -16,7 +16,7 @@ sections:
       title: Skills
       items:
         - name: Coding
-          description: R, Stata, Python, bash
+          description: R, Stata, Python, bash, git
           icon: code
           icon_pack: fa
         - name: Statistics
