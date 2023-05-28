@@ -15,18 +15,18 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
+        - name: Coding
+          description: R, Stata, Python, bash
+          icon: display-code
+          icon_pack: fa
         - name: Statistics
-          description: 100%
+          description: Descriptive, inferential, meta-analysis, Bayesian
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: Languages
+          description: English, Russian, German, Spanish, French
+          icon: language
+          icon_pack: fa
   - block: experience
     content:
       title: Experience
