@@ -6,8 +6,8 @@ bio: My research interests include health services research, health informatics,
   and global health science.
 interests:
   - Health services research
-  - clinical informatics
-  - health metrics
+  - Clinical informatics
+  - Health metrics
 social:
   - icon: envelope
     icon_pack: fas
