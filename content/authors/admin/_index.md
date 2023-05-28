@@ -1,7 +1,7 @@
 ---
 title: Nikita Nekliudov
 role: Postdoctoral Scholar in Clinical Informatics
-avatar_filename: f8db9f46-4b0d-4353-9d78-b71fd064ad74.jpg
+avatar_filename: screenshot-2023-05-27-at-7.49.54-pm.png
 bio: My research interests include health services research, health informatics,
   and global health science.
 interests:
@@ -12,38 +12,31 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=d6DdM10AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nikita-nekliudov
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/nikita-nekliudov-8b45171b0/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Institute for Health Metrics and Evaluation
+    url: https://www.healthdata.org/
+  - name: University of Washington
+    url: https://www.washington.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Global Health Science and Epidemiology
+      institution: University of Oxford
+      year: ""
+    - course: Doctor of Medicine
+      institution: Sechenov University
+      year: ""
 superuser: true
 status:
   icon: ☕️
