@@ -5,9 +5,9 @@ avatar_filename: screenshot-2023-05-27-at-7.49.54-pm.png
 bio: My research interests include health services research, health informatics,
   and global health science.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Health services research
+  - clinical informatics
+  - health metrics
 social:
   - icon: envelope
     icon_pack: fas
@@ -51,5 +51,5 @@ Prior to joining IHME, I obtained a medical degree from Sechenov University in M
 
 Importantly, I do my best to facilitate a friendly and inclusive environment in the workplace by actively participating in related initiatives. As such, I currently lead an Employee Resource Group (ERG) for postdocs and researchers at the Institute working toward building a sense of community amongst us and providing systemic tools and knowledge base for professional growth.
 
-In my free time I enjoy playing the piano, DJing, kickboxing, reading, traveling and simply spending time with my loved ones.
+In my free time I enjoy playing the piano, DJing, kickboxing, reading, traveling and simply spending time with my loved ones. 
 {style="text-align: justify;"}
