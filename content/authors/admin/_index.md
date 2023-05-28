@@ -1,5 +1,5 @@
 ---
-title: Nikita Nekliudov
+title: Nikita Nekliudov (he/him)
 role: Postdoctoral Scholar in Clinical Informatics
 avatar_filename: avatar.png
 bio: My research interests include health services research, health informatics,
