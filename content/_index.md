@@ -17,7 +17,7 @@ sections:
       items:
         - name: Coding
           description: R, Stata, Python, bash
-          icon: display-code
+          icon: rectangle-code
           icon_pack: fa
         - name: Statistics
           description: Descriptive, inferential, meta-analysis, Bayesian
