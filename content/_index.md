@@ -59,14 +59,14 @@ sections:
           location: Remote
           date_start: '2021-07-01'
           date_end: '2022-08-31'
-          description: Coordinated an international EU-funded consensus study
+          description: Coordinated an EU-funded international consensus study
         - title: Research Assistant and Project Coordinator
-        - company: Sechenov Unversity
-        - company_url: 'https://www.sechenov.ru/eng/'
-        - location: Moscow, Russia
-        - date_start: 2020-07-15
-        - date_end: 2021-08-01
-        - description: Executed the StopCovid group of project investigating short- and long-term effects of COVID-19
+          company: Sechenov Unversity
+          company_url: 'https://www.sechenov.ru/eng/'
+          location: Moscow, Russia
+          date_start: '2020-07-15'
+          date_end: '2021-08-01'
+          description: Executed the StopCovid group of project investigating short- and long-term effects of COVID-19
     design:
       columns: '2'
   - block: accomplishments
