@@ -39,27 +39,34 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Postdoctoral Scholar
+          company: Institute for Health Metrics and Evaluation
+          company_url: 'https://healthdata.org'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Seattle, WA
+          date_start: '2022-09-06'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Processing of complex non-standardized datasets
+              * Data visualization, meta-regression modelling
+              * Systematic literature reviews, collaborator outreach
+        - title: Virtual Networking Support Manager
+          company: The Core Outcome Set for Food Allergy (COMFA) Consortium
+          company_url: 'https://comfa.eu'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Remote
+          date_start: '2021-07-01'
+          date_end: '2022-08-31'
+          description: Coordinated an international EU-funded consensus study
+        - title: Research Assistant and Project Coordinator
+        - company: Sechenov Unversity
+        - company_url: 'https://www.sechenov.ru/eng/'
+        - location: Moscow, Russia
+        - date_start: 2020-07-15
+        - date_end: 2021-08-01
+        - description: Executed the StopCovid group of project investigating short- and long-term effects of COVID-19
     design:
       columns: '2'
   - block: accomplishments
@@ -215,16 +222,15 @@ sections:
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 3980 15th Ave
+        city: Seattle
+        region: WA
+        postcode: '98105'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Hans Rosling Center, 6th floor, 657
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday-Friday 09:00 AM to 05:00 PM Pacific time (GMT-8)'
       contact_links:
         - icon: twitter
           icon_pack: fab
