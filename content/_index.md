@@ -43,15 +43,14 @@ sections:
           company: Institute for Health Metrics and Evaluation
           company_url: 'https://healthdata.org'
           company_logo: org-gc
-          location: Seattle, WA
+          location: Seattle, WA, United States
           date_start: '2022-09-06'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Processing of complex non-standardized datasets
-              * Data visualization, meta-regression modelling
-              * Systematic literature reviews, collaborator outreach
+            * Data wrangling, aggregation and visualization with R and Python
+            * Pre-processing of complex, non-standardized datasets from international collaborators for epidemiological analyses 
+            * Applying metaregression tools for global health metrics estimation
+            * Data seeking through systematic search and external collaborator outreach
         - title: Virtual Networking Support Manager
           company: The Core Outcome Set for Food Allergy (COMFA) Consortium
           company_url: 'https://comfa.eu'
@@ -59,14 +58,29 @@ sections:
           location: Remote
           date_start: '2021-07-01'
           date_end: '2022-08-31'
-          description: Coordinated an EU-funded international consensus study
+          description: |2-
+            * Coordinated an EU-funded international consensus study
+            * Drafted a global consensus study protocol to establish core outcome set to harmonise human studies of food allergy 
+            * Managed grant reports and convened regular meetings with over 70 the task force members to facilitate decision-making and coordinate collaborative projects 
+            * Produced 2 systematic search strategies and oversaw screening and data extraction for 2 systematic reviews to aid the long list of outcomes for the Delphi process 
+            * Organised international workshop on the development of core outcome sets for clinical trials
+            * Guided applicants on grant applications and reporting
+            * Provided documentation to the Grant Holder Institution and the European Cooperation in Science and Technology (COST)
+            * Structured activity-based budget
         - title: Research Assistant and Project Coordinator
           company: Sechenov Unversity
           company_url: 'https://www.sechenov.ru/eng/'
           location: Moscow, Russia
           date_start: '2020-07-15'
           date_end: '2021-08-01'
-          description: Executed the StopCovid group of project investigating short- and long-term effects of COVID-19
+          description: |2-
+            * Cleaned and curated data for the collaborative analysis with the GBD and was named as a co-author on 2 manuscripts currently under review
+            * Budgeted two research grants from the British Embassy Moscow and ensured comprehensive reporting to lay out a long-lasting relation between the grant organization and the institution
+            * Streamlined data collection from over 5000 electronic health records in the health information system to compile the largest database of hospitalized patients countrywide and curated the dataset
+            * Managed a team of over 50 researchers using hierarchical leadership to conduct a prospective observational study with extremely tight deadlines 
+            * Contributed data from a cohort study of the acute SARS-CoV-2 infection to the Infectious Diseases Data Observatory using CDISC Foundational Standards 
+            * Initiated a national cross-sectional survey administration and executed the project at all stages providing nationwide estimates and determinants of mental health during lockdown 
+            * Conveyed statistical analysis plans to statisticians, interpreted and discussed the outputs in 4 international projects ensuring mutual understanding
     design:
       columns: '2'
   - block: accomplishments
