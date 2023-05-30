@@ -230,7 +230,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Thank you for visiting my website! I value your feedback and would be delighted to discuss any collaborations or address any queries you may have. Please feel free to reach out via email below. I look forward to connecting with you!
       # Contact (add or remove contact options as necessary)
       email: nikitn@uw.edu
       # appointment_url: 'https://calendly.com'
